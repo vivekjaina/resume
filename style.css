@@ -1,0 +1,99 @@
+.logo img{
+    height: auto;
+    width: max-content;
+    }
+.menu{
+        padding: 3px 3px 3px 3px;
+        text-align: right;
+        padding-right: 15px;
+        word-spacing: 3px;
+        margin-bottom: 0px;
+        background-color: rgb(174, 199, 208);
+
+}
+.menu a{
+    text-decoration: none;
+    color: black;
+    padding: 3px;
+}
+.menu a:hover{
+    background-color: blue;
+    border: 0;
+    color: white;
+}
+
+.body img{
+    height: 500px;
+    width: 100%;
+}
+
+h2{
+    text-align: center;
+    position: relative;
+    color: black;
+    font-size: 30px;
+}
+#center{
+    width: 70%;
+    text-align: center;
+}
+p{    text-align: center;
+    position: relative;
+    color: black;
+    font-size: 20px;}
+.copyrights{
+    background-color: darkblue;
+    padding-top: 3px;
+    font-size: 7px;
+    padding-bottom: 1px;
+}
+.symbols{
+    background-color: rgb(35, 35, 154);
+    padding-top: 50px;
+    padding-bottom: 20px;
+    text-align: center;
+    justify-content: space-between;
+}
+.symbols a{
+    text-decoration: none;
+    margin-left: 10px;
+    color: white;
+    margin-bottom: 50px;
+    margin-top: 10px;
+    
+}
+h3{
+    
+    position: relative;
+    color: rgb(35, 35, 154);
+    font-size: 20px;} 
+
+
+ol,ul{
+    color: rgb(35, 35, 154);
+}
+#screen img{
+    height: 300px;
+    width: 300px;
+}
+#det{
+    text-align: left;
+    vertical-align: top;
+}
+#hdet{
+    width: 90%;
+    text-align: justify;
+    color: rgb(35, 35, 154);
+}
+td i,a{
+    padding-left: 15px;
+    text-decoration: none;
+}
+#abc img{
+    height: 400px;
+
+}
+
+body{
+background-size: cover;
+}
